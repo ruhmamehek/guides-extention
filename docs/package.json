@@ -2,6 +2,7 @@
   "name": "docs",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://ruhmamehek.github.io/guides-extension",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
